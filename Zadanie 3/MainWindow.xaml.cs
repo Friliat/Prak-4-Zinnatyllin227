@@ -54,7 +54,7 @@ namespace Zadanie_3
                 case 3:
                     R = a / 2 * PI;
                     D = 2 * R;
-                    l = a;
+                    l = b;
                     S = PI * Pow(R, 2);
                     TexRE.Text += "\n" + "R=" + R;
                     TexRE.Text += "\n" + "D=" + D;
